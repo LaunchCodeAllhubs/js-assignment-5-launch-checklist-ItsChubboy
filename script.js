@@ -1,4 +1,5 @@
 // Write your JavaScript code here!
+const {myFetch} = require("./scriptHelper");
 
 window.addEventListener("load", function() {
     let submit = document.querySelector("form");
